@@ -1,0 +1,10 @@
+pytesseract
+Flask
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+
+http://127.0.0.1:5000/
+http://127.0.0.1:5000/upload
